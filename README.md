@@ -1,8 +1,8 @@
 ## Olá eu sou o Júlio Cézar Mendonça, desenvolvedor Full-Stack .NET + Angular!
 <div align="center">
   <a href="https://github.com/juliomendonca">
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=juliomendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliomendonca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliomendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliomendonca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
