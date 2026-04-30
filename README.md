@@ -1,6 +1,6 @@
 <!-- BANNER DE ABERTURA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Júlio%20Cézar%20Mendonça&fontSize=40&animation=fadeIn&fontAlignY=35&theme=dracula" width="100%" alt="Banner Júlio Mendonça" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=220&section=header&text=Júlio%20Cézar%20Mendonça&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20|%20AI%20&%20Architecture&descAlignY=51&descSize=15" width="100%" />
 </div>
 
 <!-- HEADLINE CENTRALIZADA -->
