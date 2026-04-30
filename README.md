@@ -1,8 +1,3 @@
-<!-- BANNER DE ABERTURA -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=220&section=header&text=Julio%20Cezar%20Mendonca&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20-%20AI%20and%20Architecture&descAlignY=51&descSize=15" width="100%" />
-</div>
-
 <!-- HEADLINE CENTRALIZADA -->
 <div align="center">
   <h3>🚀 Senior Software Engineer | AI Architecture Specialist | Project Management</h3>
