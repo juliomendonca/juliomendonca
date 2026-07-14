@@ -1,7 +1,8 @@
 <!-- HEADLINE CENTRALIZADA -->
 <div align="center">
-  <h3>🚀 Senior Software Engineer | AI Architecture Specialist | Project Management</h3>
-  <p>Focado na engenharia de soluções SaaS de alto impacto, unindo o ecossistema .NET + Angular à potência da Inteligência Artificial aplicada.</p>
+  <h1>👋 Olá, sou Júlio Cézar Mendonça</h1>
+  <h3>🚀 Senior Software Engineer | SaaS Founder | AI & MCP Architecture Specialist</h3>
+  <p>Construindo soluções SaaS de alto impacto e arquiteturas escaláveis conectando .NET, Angular e Ecossistemas de IA Aplicada.</p>
 </div>
 
 <br>
@@ -12,17 +13,27 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <p>Engenheiro de Software Sênior com sólida experiência no ciclo completo de desenvolvimento de produtos digitais. Especialista em traduzir requisitos de negócio complexos em arquiteturas escaláveis, robustas e orientadas a resultados.</p>
-      <p>Minha paixão está na intersecção entre a eficiência da <strong>Clean Architecture</strong> e a inovação da <strong>IA Aplicada</strong>, criando sistemas que não apenas funcionam, mas evoluem.</p>
+      <p>Engenheiro de Software Sênior e fundador da <strong>JA² Sistemas</strong>. Especialista no ciclo completo de desenvolvimento de produtos digitais, transformando regras de negócio complexas em arquiteturas limpas, robustas e altamente escaláveis.</p>
+      <p>Atualmente, focado na otimização de fluxos de trabalho de engenharia de software através de <strong>Clean Architecture</strong>, integrações com LLMs e o ecossistema <strong>Model Context Protocol (MCP)</strong>.</p>
     </td>
     <td width="40%" align="center">
-      <!-- ÍCONES DE FOCO (CONCEITUAIS) -->
       <img src="https://img.shields.io/badge/Focus-Software_Architecture-blue?style=flat-square&logo=diagrams.net&logoColor=white" alt="Architecture"><br>
-      <img src="https://img.shields.io/badge/Focus-AI_Implementation-gold?style=flat-square&logo=openai&logoColor=white" alt="AI"><br>
-      <img src="https://img.shields.io/badge/Focus-SaaS_Product_Cycle-brightgreen?style=flat-square&logo=pivotaltracker&logoColor=white" alt="SaaS">
+      <img src="https://img.shields.io/badge/Focus-AI_&_MCP_Integration-gold?style=flat-square&logo=openai&logoColor=white" alt="AI"><br>
+      <img src="https://img.shields.io/badge/Focus-SaaS_Product_Scale-brightgreen?style=flat-square&logo=pivotaltracker&logoColor=white" alt="SaaS">
     </td>
   </tr>
 </table>
+
+<br>
+
+<!-- PROJETOS EM DESTAQUE (VITRINE) -->
+## 🚀 Produtos & SaaS em Destaque
+
+Sistemas simplificados, objetivos e desenhados para entregar o máximo valor com a menor complexidade possível para o usuário final:
+
+*   **⚡ Flúe Menu**: Sistema de cardápio digital, controle de mesas, fluxo KDS para cozinhas e gestão ERP para restaurantes.
+*   **👕 Veste**: SaaS completo de gestão para lojas de roupas, com controle de estoque por grade (tamanhos), PDV integrado e histórico de vendas.
+*   **📋 OrçaFácil**: Gerador de propostas e orçamentos dinâmicos integrado para envio direto e faturamento via WhatsApp.
 
 <br>
 
@@ -32,28 +43,30 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center"><strong>Core Engineering</strong></td>
-      <td align="center"><strong>Frontend & UI</strong></td>
-      <td align="center"><strong>Architecture & Cloud</strong></td>
+      <td align="center" width="33%"><strong>Backend & Data</strong></td>
+      <td align="center" width="33%"><strong>Frontend & UI</strong></td>
+      <td align="center" width="33%"><strong>AI, Agents & DevOps</strong></td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"><br>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=000" alt="Drizzle">
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS"><br>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Angular_21+-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"><br>
         <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
       </td>
-      <td align="center">
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-000?style=flat-square&logo=openai&logoColor=white" alt="MCP">
+        <img src="https://img.shields.io/badge/AI_Coding-Cursor/Copilot-0052CC?style=flat-square&logo=githubcopilot&logoColor=white" alt="AI Coding"><br>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres">
-        <img src="https://img.shields.io/badge/AI_Modeling-000?style=flat-square&logo=databricks&logoColor=white" alt="AI Modeling">
+        <img src="https://img.shields.io/badge/Hangfire-Orange?style=flat-square&logo=hangfire&logoColor=white" alt="Hangfire">
       </td>
     </tr>
   </table>
@@ -88,7 +101,7 @@
   <a href="mailto:juliomendonca@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
-  <a href="https://instagram.com/juliocezarmendonca" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://ja2sistemas.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/JA²_Sistemas-000000?style=for-the-badge&logo=opsgenie&logoColor=white" alt="JA2 Sistemas">
   </a>
 </div>
